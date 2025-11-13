@@ -1,5 +1,5 @@
-create database Hospital_Management;
-use Hospital_Management;
+CREATE DATABASE Hospital_Management;
+USE Hospital_Management;
 
 -- 1. Department Table
 CREATE TABLE Department (
@@ -82,4 +82,4 @@ INSERT INTO Billing (patient_id, total_amount, payment_status, billing_date)
 VALUES (1, 1200.00, 'Paid', '2025-11-13'),
        (2, 800.00, 'Pending', '2025-11-13');
 
-select * from Appointment;
+SELECT * FROM Appointment;
