@@ -1,6 +1,5 @@
 ## Hospital Management System Database Schema
 
-### Summary
 
 This SQL script establishes a **Hospital Management System** database. It defines six primary tables with appropriate relationships to manage core hospital operations:
 
